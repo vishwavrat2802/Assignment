@@ -3,7 +3,7 @@
 }
 
 #design1{
-    background-color: chocolate;
+    background-color: coral;
 }
 .nav-item span{
     color: aliceblue;
@@ -21,10 +21,14 @@ hr {
     margin-top: 40px;
     padding: 30px;
 }
-h6 {
-	margin-top: 20px
-}
+
 .paragraph{
-    background-color: coral;
+    background-color: palevioletred;
     height: 1000px;
+    color: antiquewhite;
+}
+
+h5 {
+    color: darkred;
+    margin-top: 30px;
 }
