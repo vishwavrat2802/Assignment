@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+#design1{
+    background-color: chocolate;
+}
+.nav-item span{
+    color: aliceblue;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+hr {
+	border-top: 1px solid saddlebrown;
+	margin: 0px;
+}
+#design3 {
+    margin-top: 40px;
+    padding: 30px;
+}
+h6 {
+	margin-top: 20px
+}
+.paragraph{
+    background-color: coral;
+    height: 1000px;
+}
